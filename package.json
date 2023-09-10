@@ -1,0 +1,23 @@
+{
+  "name": "hudzastega",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "13.4.13",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "aes-js": "^3.1.2",
+    "base-64": "^1.0.0",
+    "buffer": "^6.0.3",
+    "crypto": "^1.0.1",
+    "crypto-aes-ecb": "^1.2.0",
+    "crypto-browserify": "^3.12.0",
+    "crypto-js": "^4.1.1"
+  }
+}
